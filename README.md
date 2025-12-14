@@ -1,5 +1,7 @@
 # GSH Node.js App with CI/CD
 
+> **Demo Branch**: This PR demonstrates the CI/CD pipeline in action!
+
 A simple Node.js application demonstrating unit testing and CI/CD pipeline setup.
 
 ## Features
